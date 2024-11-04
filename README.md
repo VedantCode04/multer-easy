@@ -1,5 +1,4 @@
-# multer-easy
-=======
+
 # Multer Easy
 
 A utility for handling file uploads with multer and custom options.
